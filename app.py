@@ -3,7 +3,6 @@ import streamlit as st
 import altair as alt
 from PIL import Image
 import numpy as np
-import openpyxl
 
 # CONFIGURAÇÃO DA PÁGINA
 st.set_page_config(
