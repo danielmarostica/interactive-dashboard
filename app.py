@@ -2,7 +2,6 @@ import pandas as pd
 import streamlit as st
 import altair as alt
 from PIL import Image
-import plotly.express as px
 import numpy as np
 
 # CONFIGURAÇÃO DA PÁGINA
